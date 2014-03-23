@@ -43,7 +43,7 @@ print (dep)
 perso = "G"
 pos_perso = [1, 1]
 
-def affiche_labyrinthe(lab, pos_perso):
+def affiche_labyrinthe2(lab, pos_perso):
     """
        Affichage d'un labyrinte
 
